@@ -1,0 +1,1 @@
+# easy-hugo-new-cmd
